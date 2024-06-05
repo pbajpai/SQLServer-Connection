@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL-Authentication-SPN-Cert", "SQL-Authentication-SPN-Cert\SQL-Authentication-SPN-Cert.csproj", "{0AD9BCAA-CEDE-4A7D-947C-B04FAF428245}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AD9BCAA-CEDE-4A7D-947C-B04FAF428245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD9BCAA-CEDE-4A7D-947C-B04FAF428245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD9BCAA-CEDE-4A7D-947C-B04FAF428245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD9BCAA-CEDE-4A7D-947C-B04FAF428245}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D062935E-072F-4323-9DE2-D06880CCC27B}
+	EndGlobalSection
+EndGlobal
